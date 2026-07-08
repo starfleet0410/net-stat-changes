@@ -1,0 +1,17 @@
+{
+  "geode": "5.7.1",
+  "gd": {
+    "win": "2.2081",
+    "mac": "2.2081",
+    "android": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "starfleetc.net_stat_changes",
+  "name": "Net Stat Changes",
+  "version": "1.0.0",
+  "developer": "StarfleetC",
+  "description": "Local Geometry Dash stat snapshot logger that shows net changes over the last 7 days.",
+  "resources": {
+    "files": ["about.md"]
+  }
+}
