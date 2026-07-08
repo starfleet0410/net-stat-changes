@@ -16,7 +16,7 @@ The built `.geode` package should appear in the build folder.
 
 ## Usage
 
-Open Geometry Dash, then click the **Stats Δ** button on the main menu.
+Open Geometry Dash, then click the **star** button on the main menu.
 
 The mod auto-saves a snapshot at most once every 12 hours when you reach the main menu. You can also click **Snapshot Now** in the popup.
 
